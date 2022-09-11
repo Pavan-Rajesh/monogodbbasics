@@ -16,6 +16,13 @@
 //   });
 // });
 
+
+
+
+
+
+
+
 //inserting object
 // var MongoClient = require('mongodb').MongoClient;
 // var url = "mongodb://localhost:27017/mydb";
@@ -30,6 +37,13 @@
 //      db.close();
 //    });
 // });
+
+
+
+
+
+
+
 
 //find one method in mongodb
 // var MongoClient = require('mongodb').MongoClient;
@@ -47,6 +61,13 @@
 // });
 //
 
+
+
+
+
+
+
+
 //quering in mongodb
 
 //
@@ -63,6 +84,13 @@
 //     db.close();
 //   });
 // });
+
+
+
+
+
+
+
 
 
 //insert many persons in mongodb
@@ -92,6 +120,7 @@
 //
 // });
 //
+
 
 
 
